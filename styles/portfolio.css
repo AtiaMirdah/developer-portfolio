@@ -22,6 +22,13 @@ body{
     font-size: 35px;
     font-weight: 700;
 }
+.section-content{
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
 /* nav related style */
 nav {
     display: flex;
@@ -104,13 +111,6 @@ main{
     border-radius: 10px;
     background: #FFF8F3;
 }
-.about-text{
-    color: #757575;
-    text-align: center;
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 30px;
-}
 
 .about-info-container{
     display: flex;
@@ -118,4 +118,10 @@ main{
 }
 .about-info{
     text-align: center;
+}
+
+/* what i do */
+
+#what{
+    padding: 30px 150px;
 }
